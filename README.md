@@ -19,4 +19,4 @@ Este projeto tem como objetivo utilizar o **Microsoft Azure ML** para transforma
 ---
 📎 **Autor**: Leonor Matos (Leah Davash)
 🗂 **Tecnologias**: Azure ML, Git, GitHub
-🔗 **Mais sobre mim**: [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+🔗 **Mais sobre mim**: [LinkedIn](https://www.linkedin.com/in/leonormatos/)
